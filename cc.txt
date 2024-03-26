@@ -1,0 +1,3 @@
+Cloud Computing is a distributed set of servers which are placed remotely across the globe.
+Major service providers of cloud computing are AWS, AZURE, Horeku, Salesforce.
+Three services of cloud computuin are: IAAS, PAAS, SAAS.
